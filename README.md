@@ -1,5 +1,6 @@
 # Praktikum Pra UTS (2) - Java OOP
-**NIM:** 200426
+**Nama :** Bintang Akbar Sutjipto
+**NIM:** I.2510507
 
 ---
 
